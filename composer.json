@@ -1,0 +1,19 @@
+{
+    "name": "will/pdflegal",
+    "description": "faz textos virar pdf",
+    "require-dev": {
+        "tecnickcom/tcpdf": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Will\\Pdflegal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "willian pinoti",
+            "email": "willian.pinotti@unidavi.edu.br"
+        }
+    ],
+    "require": {}
+}
